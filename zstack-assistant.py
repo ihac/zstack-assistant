@@ -2,7 +2,7 @@
 # encoding: utf-8
 #
 # File name: vm-pa.py
-# Author: Mingyu
+# Author: hac
 # Date created: 10/10/2016
 # Date last modified: 10/10/2016
 # Python Version: 2.7
