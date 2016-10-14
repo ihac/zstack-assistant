@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 #
-# File name: vm-pa.py
+# File name: zstack-assistant.py
 # Author: hac
 # Date created: 10/10/2016
 # Date last modified: 10/10/2016
@@ -332,7 +332,7 @@ def changeDescription_OP(uuid, newDescription):
 def changeDescription():
     """changeIP() will modify the specified VM's ip address
 
-    :returns: 3
+    :returns: 4
 
     """
     ip = raw_input('Which vm do you want to modify? Please input its ip: ')
@@ -377,7 +377,7 @@ if __name__ == '__main__':
         if func is None:
             continue
         else:
-	        func()
+            func()
 
 
 
